@@ -1,0 +1,58 @@
+/*Cabeçalho*/
+
+#idcabecalho {
+    background-color: #2b3a49;
+}
+
+#cabecalho1 {
+    height: 90px;
+}
+
+#cabecalho1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#cabecalho2 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#ifimag {
+    margin-top: 20px;
+}
+
+
+/*Corpo*/
+
+#S0 {
+    margin-top: 50px;
+}
+
+#S1 {
+    margin: auto;
+    width: 300px;
+    height: 50px;
+}
+
+#S2 {
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+#mostSenha {
+    margin-top: 50px;
+}
+
+#tela {
+    margin-top: 50px;
+}
+
+#a1 {
+    color: #fff;
+    text-decoration: none;
+}

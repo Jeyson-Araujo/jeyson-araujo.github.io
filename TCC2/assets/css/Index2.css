@@ -1,0 +1,40 @@
+/*Cabeçalho*/
+
+#idcabecalho {
+    background-color: #2b3a49;
+}
+
+#cabecalho1 {
+    height: 90px;
+}
+
+#cabecalho1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#cabecalho2 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#ifimag {
+    margin-top: 20px;
+}
+
+
+/*Cadastro*/
+
+#h4 {
+    padding-right: 70%;
+}
+
+#func {
+    padding-right: 90%;
+}
+
+#cad {
+    padding-left: 16%;
+}
